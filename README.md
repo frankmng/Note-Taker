@@ -2,7 +2,7 @@
 # Note Taker
 ## Description
 
-The recipe for a productive day and week starts with a todo list. Moreover a todo that is easily accessible via your web browser. Start with this todo list and organize what's on your mind or jot down steps for productivity for each day of the week!
+The recipe for a productive day and week starts with a todo list. Moreover a todo list that is easily accessible via your web browser. Start with this todo list and organize what's on your mind or jot down steps for productivity for each day of the week!
 
 ![terminal-prompts](https://raw.githubusercontent.com/frankmng/Note-Taker//main/Develop/public/assets/images/note-taker.png)
 ## Table of Contents
