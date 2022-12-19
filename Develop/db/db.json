@@ -1,7 +1,22 @@
 [
    {
-      "title": "Test",
-      "text": "test",
-      "id": "900e3809-22b0-4274-bc59-b96ec3c608cc"
+      "title": "Monday",
+      "text": "Finish reporting on social media platforms",
+      "id": "681d173f-57a2-43fb-a36b-0710ba13e8cf"
+   },
+   {
+      "title": "Tuesday",
+      "text": "Grab soda cans from the local super market",
+      "id": "89918ea7-33b0-4a7a-a968-51725af198a3"
+   },
+   {
+      "title": "Wednesday",
+      "text": "Get a haircut that resembles something festive for the holidays",
+      "id": "071fe396-4f8f-4b8e-b4a4-c23f136ed393"
+   },
+   {
+      "title": "Thursday",
+      "text": "Complete training on SQL and finish the day off with weight training",
+      "id": "0ba78721-aca4-4549-9476-2accaf4fcdc8"
    }
 ]
