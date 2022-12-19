@@ -6,7 +6,7 @@ const { clog } = require('./middleware/clog');
 const app = express();
 
 
-const PORT = 3001;
+const PORT = Process.env.PORT || 3000;
 app.use(clog);
 
 // Middleware for parsing JSON and urlencoded form data
