@@ -1,1 +1,1 @@
-web: /Develop/server.js
+web: server.js
